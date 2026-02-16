@@ -1,0 +1,7 @@
+{
+  "name": "Logos: Biblical Greek Lexicon & Quiz",
+  "description": "An advanced Biblical Greek vocabulary quizzer with integrated AI-powered Text-to-Speech for learning Koine Greek pronunciation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
